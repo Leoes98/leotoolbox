@@ -9,6 +9,10 @@ numpy
 pandas
 scikit-learn
 
+# engineering
+scipy
+opencv-python
+
 # tests/linter
 black
 coverage
@@ -21,9 +25,11 @@ gcsfs
 google-cloud-storage
 mlflow
 s3fs
+requests
 
 # utilities
 six>=1.14
 joblib
 memoized-property
 termcolor
+matplotlib
